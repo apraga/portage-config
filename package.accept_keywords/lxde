@@ -1,0 +1,33 @@
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxpanel-0.10.1 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxterminal-0.4.0 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxsession-0.5.5 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxde-common-0.99.2-r1 ~amd64
+# required by lxde-meta (argument)
+=lxde-base/lxde-meta-0.5.5-r7 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxinput-0.3.5-r2 ~amd64
+# required by lxde-base/lxpanel-0.10.1::gentoo
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=x11-libs/libfm-1.3.2 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxde-icon-theme-0.5.1-r1 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxrandr-0.3.2-r1 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=lxde-base/lxtask-0.1.10 ~amd64
+# required by lxde-base/lxde-meta-0.5.5-r7::gentoo
+# required by lxde-meta (argument)
+=x11-misc/pcmanfm-1.3.2-r1 ~amd64

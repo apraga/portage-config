@@ -1,0 +1,8 @@
+# Nativecomp with jit
+# json for performances with doom-emacs
+# xft for doomemacs
+app-editors/emacs jit json xft
+sys-devel/gcc jit
+
+# For the deamon, do not use GTK as there a bug  wit X disconnect. Use lucid instead
+app-editors/emacs athena Xaw3d -gtk -motif gui

@@ -1,0 +1,9 @@
+# Avoid qt dependencies
+app-text/poppler -qt5)
+
+# required by xfce-base/xfce4-panel-4.16.5::gentoo[dbusmenu]
+# required by xfce-base/thunar-4.16.11::gentoo[trash-panel-plugin]
+# required by xfce-base/xfdesktop-4.16.0::gentoo[thunar]
+# required by xfce-base/xfce4-meta-4.16-r2::gentoo
+# required by xfce-base/xfce4-meta (argument)
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
