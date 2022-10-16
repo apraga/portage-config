@@ -1,0 +1,12 @@
+# package.use# required by media-sound/pulseaudio-daemon-16.1::gentoo[alsa,alsa-plugin]
+# required by media-libs/libpulse-16.1-r1::gentoo
+# required by media-sound/pulseaudio-16.1::gentoo
+# required by www-client/firefox-bin-105.0.1::gentoo[pulseaudio]
+# required by firefox-bin (argument)
+>=media-plugins/alsa-plugins-1.2.7.1 pulseaudio
+# required by net-vpn/networkmanager-strongswan-1.6.0::gentoo
+# required by networkmanager-strongswan (argument)
+>=net-vpn/strongswan-5.9.6-r1 networkmanager
+# required by www-client/chromium-bin-106.0.5249.91::gentoo
+# required by chromium-bin (argument)
+>=sys-libs/zlib-1.2.12-r3 minizip

@@ -1,0 +1,2 @@
+# Manage dependency conflict with os-prober
+sys-boot/grub mount

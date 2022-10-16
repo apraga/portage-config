@@ -1,0 +1,14 @@
+dev-lang/ghc ~amd64
+dev-haskell/*
+*/*::haskell
+x11-wm/xmonad*
+
+dev-vcs/git-annex ~amd64
+app-text/pandoc ~amd64
+
+# required by dev-lang/ghc-9.0.2::gentoo[-ghcbootstrap]
+# required by dev-haskell/data-default-class-0.1.2.0::gentoo
+# required by dev-haskell/x11-1.10.2::gentoo
+# required by x11-wm/xmonad-0.17.0::gentoo
+# required by xmonad (argument)
+=app-admin/haskell-updater-1.3.2-r1 ~amd64
