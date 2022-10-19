@@ -2,3 +2,4 @@ dev-lang/ghc ~amd64
 dev-haskell/*
 */*::haskell
 x11-wm/xmonad*
+dev-vcs/git-annex
