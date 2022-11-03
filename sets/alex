@@ -1,0 +1,11 @@
+app-editors/emacs
+# Terminal
+x11-terms/kitty
+# X
+x11-wm/xmonad
+x11-misc/polybar
+x11-misc/redshift
+x11-misc/picom
+# Productivity
+dev-vcs/git
+dev-vcs/git-annex
