@@ -1,7 +1,8 @@
-# Nativecomp with jit
-# json for performances with doom-emacs
-# xft for doomemacs
-app-editors/emacs jit json xft
+# - Nativecomp with jit
+# - json for performances with doom-emacs
+# - xft for doomemacs
+# - xml for org-mode export (odt, markdown...)
+app-editors/emacs jit json xft libxml2
 sys-devel/gcc jit
 
 # For the deamon, do not use GTK as there a bug  wit X disconnect. Use lucid instead
