@@ -1,0 +1,4 @@
+# Set L10N variable
+app-text/hunspell l10n_en l10n_fr
+# We need this one too
+app-dicts/myspell-en l10n_en l10n_fr
