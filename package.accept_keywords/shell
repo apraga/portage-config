@@ -1,6 +1,7 @@
 # Guru
 app-admin/chezmoi ~amd64
 app-shells/zoxide ~amd64
+app-shells/nushell ~amd64
 www-misc/buku ~amd64
 
 app-text/tessdata_best ~amd64
